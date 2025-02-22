@@ -1,2 +1,3 @@
 # sistema-registro
-prueba uso github
+PRY en construcción 
+  ```npm install react```
